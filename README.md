@@ -66,6 +66,8 @@ optimal weights. Our custom CNN model got test accuracy of 71.06%, while the
 Resnet50 model got only 64.28%. Below are the graphs, representing the model’s
 accuracy rates on train and validation data over the period of 10 epochs. We see that
 validation accuracy reached plato, so further epochs wouldn’t change the accuracy rate
+
+
 <img width="528" alt="image" src="https://github.com/daniil228367/Python_FX_project/assets/146715901/304e26f8-4e53-4c7f-8f7e-1514358975bf">
 
 <img width="468" alt="image" src="https://github.com/daniil228367/Python_FX_project/assets/146715901/407dcf14-f31c-44bc-be9c-dd41fb2c9e25">
